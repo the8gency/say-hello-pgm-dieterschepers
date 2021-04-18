@@ -11,17 +11,18 @@ Semi-hardcore gamer that likes to listen to Drum & Bass, Frenchcore and Metalcor
 
 ### Skills: 
 
--   HTML
--   CSS/SCSS
--   vanilla JS
--   React (soon)
-
--   NodeJS
--   PHP
--   MySQL
-
--   Adobe XD
--   Adobe Dimension
+-   front end:
+    -   HTML
+    -   CSS/SCSS
+    -   vanilla JS
+    -   React (soon)
+-   backend:
+    -   NodeJS
+    -   PHP
+    -   MySQL
+-   programs:
+    -   Adobe XD
+    -   Adobe Dimension
 
 ### Languages
 
