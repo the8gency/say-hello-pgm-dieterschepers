@@ -14,7 +14,7 @@ Semi-hardcore gamer that likes to listen to Drum & Bass, Frenchcore and Metalcor
 -   HTML
 -   CSS/SCSS
 -   vanilla JS
--   React(soon)
+-   React (soon)
 
 -   NodeJS
 -   PHP
